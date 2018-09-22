@@ -1,0 +1,676 @@
+1	1	YOU 	NI	You(ni)_rev.swf
+1	2	GOOD	HAO 	GOOD (HAO).swf
+1	3	HELLO, GREETINGS	NI HAO , NIHAO	HELLO, GREETINGS (NI HAO).swf
+1	4	QUESTION TAG, QUESTION	MA 	QUESTION TAG (MA).swf
+1	5	HOW ARE YOU?	NI HAO MA , NIHAO	How Are You (nihaoma).swf
+1	6	I, ME	WO 	I(wo)2RotateEye_rev.swf
+1	7	VERY 	HEN 	Very - hen.swf
+1	8	I’M FINE 	WO HEN HAO	I'M FINE (WO HEN HAO).swf
+1	9	WHICH 	NA 	Which - na.swf
+1	10	COME 	LAI	COME (LAI).swf
+1	11	CHINESE MILE, INSIDE, PLACE	LI 	Chinese mile, Inside, place(li)_rev.swf
+1	12	SINCE, FROM	CONG 	SINCE, FROM (CONG).swf
+1	13	WHERE ARE YOU FROM?	NI CONG NA LI LAI , NI CONG NALI LAI	WHERE ARE YOU FROM (NI CONG NA LI LAI).swf
+1	14	NEGATIVE PREFIX	BU 	Negative prefix (bù).swf
+1	15	WILL, CAN 	HUI 	Will or Can - Hui.swf
+1	16	SAY, SPEAK	SHUO 	Say (shuo).swf
+1	17	CHINESE	HUA 	Chinese-adj (hua).swf
+1	18	LANGUAGE	YU 	Language, words(yu)_rev.swf
+1	19	CHINESE (LANGUAGE)	HUA YU	Chinese Language (hua yu).swf
+1	20	I DO NOT SPEAK CHINESE	WO BU HUI SHUO HUA YU , WO BU HUI SHUO HUAYU	I Do not speak chinese (wo bu hui shuo hua yu).swf
+1	21	HIGHEST 	TAI 	Highest, Greatest (tai).swf
+1	22	TALK, SAY, BE CALLED	JIANG 	Talk, say, be called (jiang).swf
+1	23	I DO NOT SPEAK MUCH CHINESE	WO BU TAI HUI JIANG HUA YU , WO BU TAI HUI JIANG HUAYU , WO BU TAI HUI SHUO HUA YU, WO BU TAI HUI SHUO HUAYU	I Do not speak much chinese (wo bu tai hui jiang hua yu ma).swf
+1	24	KNOW, UNDERSTAND 	DONG	Know, understand (dong).swf
+1	25	WHAT 	SHEN ME , SHENME	What(shen me)_rev.swf
+1	26	I DO NOT UNDERSTAND WHAT YOU ARE SAYING	WO BU DONG NI SHUO SHEN ME , WO BU DONG NI SHUO SHENME	I do not understand what you are saying.swf
+1	27	PLEASE, INVITE	QING 	Please, invite.swf
+1	28	ALLOW , LET	RANG 	ALLOW (RANG).swf
+1	29	LOOK 	KAN 	look(kan)_rev.swf
+1	30	PLEASE LET ME HAVE A LOOK	QING RANG WO KAN KAN , QING RANG WO KANKAN	Please Let me have a look (qing rang wo kan kan).swf
+2	31	ARRIVE, TO	DAO	ARRIVE (DAO).swf
+2	32	BRING, TAKE (TO SOMEWHERE)	DAI 	Bring take (to somewhere) dai.swf
+2	33	THIS	ZHE	This (zhe).swf
+2	34	 PLEASE TAKE ME TO HERE (SHOWS ADDRESS WRITTEN OUT)	QING DAI WO DAO ZHE LI	Please take me to here (qing dai wo dao zhe li).swf
+2	35	ASK	WEN	Ask (wèn).swf
+2	36	MAY I ASK	QING WEN	May I Ask (qing wen).swf
+2	37	WRITE	XIE	Write(xie)_rev.swf
+2	38	GO OUT	CHU	Go_out(chu)_rev.swf
+2	39	COME OUT	CHU LAI	Come out (chu lai).swf
+2	40	PLEASE WRITE IT OUT	QING NI XIE CHU LAI	Please write it out (qing ni xie chu lai).swf
+2	41	GIVE 	GEI	Give (gei).swf
+2	42	THING (UNIT)	GE     	thing (unit) (ge).swf
+2	43	I WANT THIS PLEASE	QING NI GEI WO ZHE GE	I Want This Please (qing ni gei wo zhe ge).swf
+2	44	AGAIN 	ZAI	again(zai)1_rev.swf
+2	45	SEE	JIAN	See(jiàn).swf
+2	46	GOODBYE	ZAIJIAN	GOODBYE (zaijian).swf
+2	47	POINT	ZHI	Point (zhi).swf
+2	48	PLEASE POINT OUT	QING ZHI CHU	Please point out (qing zhi chu).swf
+2	49	AT	ZAI  	AT (ZAI).swf
+2	50	WHERE IS...	ZAI NA LI...	Where Is(zai na li).swf
+2	51	THANK YOU	XIE XIE	Thank you (xie xie).swf
+2	52	GUEST, CUSTOMER	KE	Customer, visitor, guest (kè).swf
+2	53	GAS, AIR	QI	Gas, air (qi).swf
+2	54	POLITE	KE QI	polite(ke qi)1_rev.swf
+2	55	YOU'RE WELCOME	BU KE QI	You're welcome (bu ke qi).swf
+2	56	Possessive Particle like 's (apostrophe s)	DE	Possessive Particle like 's (der).swf
+2	57	MY	WO DE	My - wo de.swf
+2	58	WORD	ZI 	Word (zi)
+2	59	NAME	MING + ZI	Name - Ming + zi.swf
+2	60	IS	SHI	Is (shi).swf
+3	61	MY NAME IS...	WO DE MING ZI SHI	My Name Is (wo de ming zi shi).swf
+3	62	CAN, POSSIBLY	KE	Can_kě​.swf
+3	63	CAN, ABLE TO	NENG	CAN ABLE TO (NENG).swf
+3	64	MAYBE	KE NENG	MAYBE (KE NENG).swf
+3	65	NO, or NOT	BU SHI	Negative prefix (bù)
+3	66	YES	SHI DE	Yes (shi de).swf
+3	67	LIKE	XI HUAN	LIKE (XI HUAN).swf
+3	68	I DON'T LIKE	WO BU XI HUAN, WO BU XIHUAN	I Don't Like (wo bu xi huan).swf
+3	69	I AM	WO SHI	I Am (wo shi).swf
+3	70	I AM FROM	WO CONG... LAI	I Am From (wo cong).swf
+3	71	ENGLISH (Part of a word)	YING	English(Ying)1_rev.swf
+3	72	COUNTRY	GUO	country (guo).swf
+3	73	HUMAN, PEOPLE, PERSON	REN	Human,people, person (REN).swf
+3	74	BRITISH	YING GUO REN	British (ying guo ren).swf
+3	75	BEAUTIFUL, PRETTY	MEI	Beautiful, pretty (Mei).swf
+3	76	AMERICAN	MEI GUO REN	American (mei guo ren).swf
+3	77	CENTER or MIDDLE/ CHINA	ZHONG	Center or Middle (zhong).swf
+3	78	CHINESE (People)	ZHONG GUO REN	Chinese People (zhong guo ren).swf
+3	79	BEAUTIFUL	MEI LI	BEAUTIFUL (MEI LI).swf
+3	80	KIND	SHAN LIANG	kind (shan liang).swf
+3	81	KIND	SHAN 	Kind - Shan.swf
+3	82	GOOD	LIANG	Good - Liang.swf
+3	83	BIG	DA 	BIG (DA).swf
+3	84	SQUARE (adj.)	FANG	SQUARE adj.swf
+3	85	GENEROUS	DAFANG	GENEROUS (dafang).swf
+3	86	LEFT (DIRECTION)	ZUO 	LEFT (direction) (zuo).swf
+3	87	RIGHT	YOU	RIGHT(you).swf
+3	88	UP	SHANG	UP(shang)_rev.swf
+3	89	DOWN, UNDER, AFTER	XIA	DOWN (xia).swf
+3	90	ELECTRIC, ELECTRICITY, ELECTRICAL	DIAN	Electric, electricity, electrical(dian).swf
+4	91	WORDS (said)	HUA	Words(said)(hua)_rev.swf
+4	92	PLEASE SPEAK ON MY PHONE	QING ZAI WO DE DIAN HUA SHANG JIANG	Please speak on my phone (qing zai wo dedian hua shang jiang).swf
+4	93	MAKE A NOUN PLURAL	MEN	Make a noun plural (men).swf
+4	94	WE	WO MEN	We (wo men).swf
+4	95	NEED	XU	Need - xu.swf
+4	96	WANT	YAO	WANT(yao)_rev.swf
+4	97	LESS	SHAO	LESS (sho).swf
+4	98	BUY	MAI	Buy (mi).swf
+4	99	CAN, TO BE ABLE	KE YI	Can, to be able (ke yi).swf
+4	100	YOU (PLURAL)	NI MEN	You_plural (ni men).swf
+4	101	GO	QU	GO (qu).swf
+4	102	ELECTRIC	DIAN	Electric, electricity, electrical(dian).swf
+4	103	MAIL	YOU	Mail - you.swf
+4	104	EMAIL  	DIAN YOU	Email (dian_you).swf
+4	105	EARTH, GROUND	DI	Land, Earth (di).swf
+4	106	LOCATION	ZHI	Location - zhi.swf
+4	107	ADDRESS	DI ZHI	ADDRESS (DI ZHI).swf
+4	108	EMAIL ADDRESS	DIAN YOU DI ZHI	Email Address - dian you di zhi.swf
+4	109	WEB	WANG 	Web - Wang.swf
+4	110	INTERNET	WANG LUO	Internet - Wang lou.swf
+4	111	BUS  	BA SHI	BUS (ba shi).swf
+4	112	STAND, STATION	ZHAN	Stand Station (zhan).swf
+4	113	BUS STATION	BA SHI ZHAN	Bus Station (ba shi zhan).swf
+4	114	LAND, EARTH	DI  	Land, Earth (di).swf
+4	115	METAL	TIE	metal (tie).swf
+4	116	SUBWAY	DI TIE	SUBWAY (di tie).swf
+4	117	SUBWAY STATION	DI TIE ZHAN	Subway Station (di tie zhan).swf
+5	118	FIRE	HUO	Fire (huo).swf
+5	119	CAR, VEHICLE	CHE	car vehicle (che).swf
+5	120	TRAIN	HUO CHE	TRAIN(huo che).swf
+5	121	TRAIN STATION	HUO CHE ZHAN	Train Station - huo che zhan.swf
+5	122	TAXI	DE SHI	TAXI(de_shi)_rev.swf
+5	123	TAXI STAND	DE SHI ZHAN	Taxi Stand (de shin zhan).swf
+5	124	BANK NOTE, TICKET	PIAO	BANK NOTE, TICKET (PIAO).swf
+5	125	TICKET	CHE PIAO	Ticket - Che piao.swf
+5	126	LORRY	LUO LI	LORRY (luo li).swf
+5	127	MOTORBIKE	MO TUO CHE	Motorbike (mo tou che).swf
+5	128	STEAM, VAPOR	QI	steam (qi).swf
+5	129	CAR 	QI CHE	CAR (qi che).swf
+5	130	FLY	FEI	Fly (fei).swf
+5	131	MACHINE	JI	machine (ji).swf
+5	132	PLANE	FEI JI	Plane (Fei Ji).swf
+5	133	OPEN SPACE, FIELD	CHANG	Field(chang)_rev.swf
+5	134	AIRPORT	JI CHANG	Airport - Ji chang.swf
+5	135	THREE	SAN	THREE(san).swf
+5	136	WHEEL	LUN	wheel(lun)_rev.swf
+5	137	TRISHAW	SAN LUN CHE	Trishaw (san lun che).swf
+5	138	LEG	JIAO	Leg - Jiao.swf
+5	139	STEP	TA	step(ta).swf
+5	140	BICYCLE	JIAOTACHE	BICYCLE(jiotache).swf
+5	141	TRAVEL	XING	Travel - xing.swf
+5	142	PLUM	LI	PLUM(li).swf
+5	143	LUGGAGE	XING LI	Luggage - Xing li.swf
+5	144	COMPANY, CONTROL	SI	Company, Control - si.swf
+5	145	DRIVER	SI JI	DRIVER (si ji).swf
+5	146	TURN	ZHUAN	Turn (zhuan).swf
+5	147	TURN LEFT	ZHUAN ZUO	Turn Left (zhuan zuo).swf
+6	148	TURN RIGHT	ZHUAN YOU	Turn Right (zhuan you).swf
+6	149	STRAIGHT	ZHI	Straight(zhi)1.swf
+6	150	WALK, LEAVE, MOVE	ZOU	Walk, Leave, Move - Zou_rev.swf
+6	151	GO STRAIGHT	ZHI ZOU	GO STRAIGHT(zhi zou).swf
+6	152	BEHIND, BACK	HOU	Behind(hou).swf
+6	153	RETREAT, MOVE BACK, WITHDRAW	TUI	Retreat, move back, withdraw(tui).swf
+6	154	GO BACK	HOU TUI	Go Back (hou tui).swf
+6	155	COW	NIU	Cow(niu).swf
+6	156	MILK	NAI	Milk - nai.swf
+6	157	MILK	NIU NAI	MILK (niu ni).swf
+6	158	CHEESE	ZHI SHI	CHEESE(zhi shi).swf
+6	159	TEA	CHA	TEA(cha).swf
+6	160	COFFEE	KA FEI	COFFEE(ka fei).swf
+6	161	ONE	YI 	one(yi).swf
+6	162	CUP, GLASS	BEI	cup, glass(bei).swf
+6	163	A CUP OF..	YI BEI	A Cup of (yi bei).swf
+6	164	DRINK (Something)	HE	DRINK(SOMETHING).swf
+6	165	COLD	LENG	COLD(leng).swf
+6	166	HOT	RE	Hot - re.swf
+6	167	EAT	CHI	EAT(chi)_rev.swf
+6	168	CLIMB, CRAWL, SNATCH	PA	Climb, Crawl, Snatch - pa.swf
+6	169	STEAK	NIU PA	STEAK(niu pa).swf
+6	170	HUNGRY	E 	HUNGRY(e).swf
+6	171	FULL	BAO	FULL(bao).swf
+6	172	PIG	ZHU	Pig(zhu).swf
+6	173	MEAT	ROU	meat(rou).swf
+6	174	PORK	ZHU ROU	Pork (zhu rou).swf
+6	175	BEEF	NIU ROU	Beef (niu rou).swf
+6	176	SALAD	SHA LA	SALAD(sha la).swf
+6	177	CHICKEN 	JI	CHICKEN(ji).swf
+7	178	FISH	YU	FISH(yu).swf
+7	179	FISH (To eat)	YU ROU	Fish to eat (yu rou).swf
+7	180	RICE	FAN	RICE(fan).swf
+7	181	SANDWICH	SAN WEN ZHI	SANDWICH(san wen zhi).swf
+7	182	WEST 	XI 	Western_West (xi).swf
+7	183	MEAL	CAN	meal food(can).swf
+7	184	WESTERN FOOD	XI CAN	Western Food(xi can).swf
+7	185	DAY, SUN	RI	Day, Sun - Ri.swf
+7	186	ORIGIN, SOURCE, COUNTER FOR BOOKS	BEN	Origin source(ben).swf
+7	187	JAPAN, JAPANESE	RI BEN	Japan Japanese(Ri_ben).swf
+7	188	JAPANESE FOOD	RI BEN CAN	Japanese Food (Ri ben can).swf
+7	189	CHINESE FOOD	ZHONG CAN	Chinese Food (Zhong Can).swf
+7	190	BEER, WINE, LIQUOR	JIU	beer wine liquor(jiu).swf
+7	191	SHOP	DIAN	shop(dian).swf
+7	192	HOTEL	JIU DIAN	HOTEL (jiu dian).swf
+7	193	PLATFORM, STAGE	TAI	Platform, stage(tai).swf
+7	194	SLEEP	SHUI	sleep(shui)_rev.swf
+7	195	ROOM	FANG	room(fang).swf
+7	196	BEDROOM	SHUI FANG	Bedroom (shui fang).swf
+7	197	BED 	CHUANG	Bed (chuang).swf
+7	198	SINGLE, ONLY, SOLE	DAN	Single, Only, Sole - Dan.swf
+7	199	BED SHEET	CHUANG DAN	BED SHEET(chuang dan).swf
+7	200	WASH	XI	wash (xi).swf
+7	201	BATH	ZAO	bath(zao).swf
+7	202	SHOWER	XI ZAO	SHOWER(xi zao).swf
+7	203	WASH	XI 	wash(xi).swf
+7	204	BATH	ZAO	bath(zao).swf
+7	205	BATH 	YU	Bath - yu.swf
+7	206	JAR	GANG	Jar - gang.swf
+7	207	BATH TUB	YU GANG	BATH_TUB_(yu_gang).swf
+8	208	BASIN	PEN	Basin - pen.swf
+8	209	GENTS	NAN CE	Gents (Nan ce).swf
+8	210	LADIES	NU CE	Ladies (nu ce).swf
+8	211	TOILET	CE 	toliet (ce).swf
+8	212	PAPER	ZHI	paper(zhi).swf
+8	213	TO DEFEND	CE ZHI	To Defend - ce zhi.swf
+8	214	TO GUARD, TO DEFEND	WEI	To Guard, To Defend - Wei.swf
+8	215	COTTON	MIAN	Cotton - mian.swf
+8	216	FUR	MAO	fur(mao).swf
+8	217	TOWEL	JIN	Towel - Jin.swf
+8	218	TOWEL	MAO JIN	TOWEL(mao jin).swf
+8	219	HAIR	FA	Hair (fa).swf
+8	220	DOSE, DOSAGE	JI 	Dose, Dosage - Ji.swf
+8	221	SHAMPOO	XI FA JI	SHAMPOO(xi fa ji).swf
+8	222	FAT	FEI	Fat (fei).swf
+8	223	SOAP	FEI ZAO	SOAP(fei zao).swf
+8	224	TOOTH	YA 	tooth(ya).swf
+8	225	OINTMENT, PASTE	GAO	ointment, paste(gao).swf
+8	226	TOOTHPASTE	YA GAO	TOOTHPASTE(ya gao).swf
+8	227	BRUSH	SHUA	brush(shua)_rev_1.swf
+8	228	TOOTHBRUSH	YA SHUA	Toothbrush (Ya Shua).swf
+8	229	TO FIT, TO SUIT	SHI	to fit, to suit(shi).swf
+8	230	TO JOIN, TO FIT, TO MATCH	PEI	to join, fit, match(pei).swf
+8	231	DEVICE, TOOL	QI	device tool(qi).swf
+8	232	ADAPTOR	SHI PEI QI	ADAPTOR (SHI PEI QI).swf
+8	233	SHAVE	TI	shave(ti).swf
+8	234	KNIFE, BLADE	DAO	knife, blade(dao).swf
+9	235	RAZOR	TI DAO	RAZOR (ti dao).swf
+9	236	BOX	XIANG	BOX(he zi).swf
+9	237	PRESS	AN	press(an).swf
+9	238	RUB	MO	rub(mo).swf
+9	239	MASSAGE	AN MO	MASSAGE(an mo).swf
+9	240	HALL	TING	hall(ting).swf
+9	241	RESTAURANT	CAN TING	RESTAURANT(can ting).swf
+9	242	PERSON	SHENG	person(sheng)_rev.swf
+9	243	WAITER	DAI YING SHENG	Waiter (dai ying sheng).swf
+9	244	EARLY, MORNING	ZAO	Early morning (zao).swf
+9	245	BREAKFAST	ZAO CAN	Breakfast (zao can).swf
+9	246	NOON	WU 	Noon (wu).swf
+9	247	LUNCH	WU CAN	LUNCH(wu can).swf
+9	248	DOWN, AFTER	XIA	DOWN (xia).swf
+9	249	LATE AFTERNOON	XIA WU	late afternoon(xia wu).swf
+9	250	TEA TIME	XIA WU CHA	TEA TIME (xia wu cha).swf
+9	251	NIGHT	WAN	night(WAN).swf
+9	252	DINNER	WAN CAN	DINNER(wan can).swf
+9	253	TOILET (Not used alone in daily conversation)	CE	toliet(ce)_rev_1.swf
+9	254	TOILET	CE SUO	TOILET (ce suo).swf
+9	255	WHERE IS THE TOILET	CE SUO ZAI NA LI	Where is the toilet - ce suo zai na li.swf
+9	256	TABLE	ZHUO	Table - Zhuo.swf
+9	257	NOUN SUFFIX	ZI	noun_suffix(zi)_rev.swf
+9	258	TABLE	ZHUO ZI	TABLE (zhuo zi).swf
+9	259	CHAIR	YI	Chair - Eagle.swf
+10	260	WHEEL + CHAIR	YI ZI	CHAIR(yi_zi)_rev.swf
+10	261	BOWL	WAN	BOWL_(w_n)_rev.swf
+10	262	PLATE	PAN	PLATE(pan)_rev.swf
+10	263	FORK	CHA	FORK(cha)_rev.swf
+10	264	KNIFE	DAO	knife, blade(dao).swf
+10	265	SOUP	TANG	soup(tang)_rev.swf
+10	266	SPOON	CHI	spoon(chi)_rev.swf
+10	267	SPOON	TANG CHI	SPOON(tāng chí).swf
+10	268	CHOPSTICKS	KUAI	Chopsticks - Kuai.swf
+10	269	CHOPSTICKS	KUAI ZI	chopsticks(kuai Z)_rev.swf
+10	270	BILL PLEASE	QING NI GEI WO ZHANG DAN	Bill Please (qing ni gei wo zhang dan).swf
+10	271	ICE	BING	Ice(bing)_rev.swf
+10	272	MODAL PARTICLE	BA	BAR (BA).swf
+10	273	BAR	JIU BA	BAR(ji_ba)_rev.swf
+10	274	BEER	PI 	Beer - Pi.swf
+10	275	BEER	PI JIU	Beer(pi_ji)_rev.swf
+10	276	CAN, MAY, ABLE TO, CERTAIN	KE 	CAN (KE).swf
+10	277	HAPPY	LE	Happy - Le.swf
+10	278	COCA COLA	KE LE	Coca_Cola(ke_le)_rev.swf
+10	279	WHITE	BAI  	WHITE (bai).swf
+10	280	WATER	SHUI	Water (Shui).swf
+10	281	WATER	BAI KAI SHUI	Water (bai kai shu)1.swf
+10	282	WHISKY	WEI SHI JI	Whisky (wei shi ji).swf
+10	283	PEPSI COLA	BAI SHI KE LE	someone buying a shirt with curler on his head (looking ridicule)
+10	284	A BEER /COKE /WATER PLEASE	QING GEI WO PI JIU/ KE LE/ BAI KAI SHUI	A beer, coke, water please - qing gei wo pi jiu, ke le, bai kai shui.swf
+11	285	A DRINK	YIN LIAO	A_DRINK(yn_liao)_rev.swf
+11	286	BOTTLE	PING ZI	BOTTLE_(ping_zi)_rev.swf
+11	287	ALREADY	YI	ALREADY (YI).swf
+11	288	MARRIAGE	HUN	marriage(hun)_rev.swf
+11	289	MARRIED	YI HUN	MARRIED(y_hun)1.swf
+11	290	BODY	SHEN	Body - Shen.swf
+11	291	SINGLE (AS IN NOT MARRIED)	DAN SHEN	SINGLE (NOT_MARRIED)(dan_shen)_rev.swf
+11	292	BODY	SHEN TI	Body(shEn_t)1_rev.swf
+11	293	TO DO, TO MAKE	ZUO	To do, make (zuo).swf
+11	294	WORK	GONG ZUO	Work (gong zuo).swf
+11	295	TO PASS, TO SPEND TIME	DU 	to pass spend time (du).swf
+11	296	VACATION, FAKE	JIA	Vacation, Fake - Jia.swf
+11	297	HOLIDAY, VACATION	DU JIA	HOLIDAY_VACATION(du_jia)1_rev.swf
+11	298	LEARN	XUE	Learn(xue)_rev2.swf
+11	299	STUDENT	XUE SHENG	STUDENT(xue_sheng)_rev.swf
+11	300	BUSINESS	SHENG YI	Business(sheng_yi)_rev.swf
+11	301	BUSINESSMAN	SHENG YI REN	BUSINESSMAN(sheng_yi_ren)_rev.swf
+11	302	HOME, FAMILY	JIA	home_family(jia)_rev1.swf
+11	303	COURT, COURTYARD	TING	court_courtyard(ting)_rev_2.swf
+11	304	TO OWN, TO HOST, MASTER, LORD, PRIMARY	ZHU	to_own_to_host_master_lord(primary_zh)_rev.swf
+11	305	WOMAN	FU	woman (fu).swf
+11	306	HOUSEWIFE	JIA TING ZHU FU	HOUSEWIFE(jia_ting_zh_fu)_rev1.swf
+11	307	YOU ARE BEAUTIFUL	NI HEN MEI LI	You Are Beautiful (ni hen mei li).swf
+11	308	FOLLOW	GEN	Follow(geng)1_rev.swf
+11	309	JUMP	TIAO	Jump(tiao)_rev.swf
+11	310	DANCE	WU	Dance(w).swf
+11	311	DANCE	TIAO WU	Dance(tiao_w)_rev.swf
+11	312	CAN YOU DANCE ME?	NI KE YI GENG WO TIAO WU MA	Can You Dance With Me (ni ke yi geng wo tiao wu ma).swf
+12	313	YOUNGER SISTER	MEI MEI	YOUNGER SISTER (mei mei).swf
+12	314	ELDER SISTER	JIE JIE	ELDER_SISTER(jie_jie)_rev.swf
+12	315	YOUNGER BROTHER	DI DI	YOUNGER BROTHER (di di).swf
+12	316	ELDER BROTHER	GE GE	ELDER_BROTHER(ge_ge)_rev.swf
+12	317	DAD	BA BA	DAD(ba_ba)_rev.swf
+12	318	MUM	MA MA	MUM(ma_ma)_rev.swf
+12	319	GRANDAD	YE YE	GRANDAD(ye_ye)_rev.swf
+12	320	GRANDMA	NAI NAI	GRANDMA(ni_nai)1_rev.swf
+12	321	SON, CHILD	ER	son_child(er)_rev_1.swf
+12	322	SON 	ER ZI	SON(ér_zi)_rev1.swf
+12	323	FEMALE	NU	FEMALE(nu)_rev.swf
+12	324	DAUGHTER	NU ER	DAUGHTER(n_er)_rev.swf
+12	325	FRIEND	PENG 	Friend - Peng.swf
+12	326	FRIEND	YOU	friend(you).swf
+12	327	FRIEND	PENG YOU	FRIEND(peng_you)_rev.swf
+12	328	BOYFRIEND	NAN PENG YOU	Boyfriend (nan peng you).swf
+12	329	GIRLFRIEND	NU PENG YOU	Girlfriend - nu peng you.swf
+12	330	SCHOOL	XIAO	School - Xiao.swf
+12	331	SCHOOL	XUE XIAO	School - zue xiao.swf
+12	332	OLD	LAO	old(lao)_rev.swf
+12	333	GRANDMOTHER, MATRON, MOTHER-IN-LAW	PO	Grandmother, matron, mother in law - Po.swf
+12	334	WIFE	LAO PO	WIFE(lo_po)_rev_1.swf
+12	335	JUST, UPRIGHT, RIGHTEOUS, GRANDFATHER	GONG	Grandfather, just, upright, righteous.swf
+12	336	HUSBAND	LAO GONG	HUSBAND(lo_gong)_rev.swf
+12	337	MALE	NAN	MALE(nan)_rev.swf
+12	338	FEMALE	NU	FEMALE(nu)_rev.swf
+12	339	CHILD	HAI 	Child - Hai.swf
+12	340	CHILD	HAI ZI	Child(hai_z)_rev.swf
+12	341	BOY	NAN HAI ZI	Boy - nan hai zi.swf
+12	342	GIRL	NU HAI ZI	Girl (nu hai zi).swf
+13	343	BUY	GOU	Buy - Gou.swf
+13	344	THINGS	WU	things(wu)_rev.swf
+13	345	CENTER, MIDDLE, CHINA	ZHONG	Center or Middle (zhong).swf
+13	346	HEART	XIN	Heart(xin)_rev.swf
+13	347	SHOPPING CENTER	GOU WU ZHONG XIN	SHOPPING_CENTRE(gou _wu_zhong_xin)_rev.swf
+13	348	MANY, MUCH	DUO	many_much(duo)_rev.swf
+13	349	LITTLE, LESS	SHAO	little_less(sh_o)_rev_1.swf
+13	350	MANY, MUCH	DUO SHAO	How_much(duo _sho)_rev.swf
+13	351	MONEY	QIAN	money(qian)_rev.swf
+13	352	OTHER, ANOTHER	LING	other_another(lìng)_rev.swf
+13	353	ANOTHER ONE (ALTERNATIVE)	LING YI GE	ANOTHER (LING YI GE).swf
+13	354	TO LEAVE	BIE	to_leave(bie).swf
+13	355	OTHERS	BIE DE	OTHERS(bie_de)_rev.swf
+13	356	PEN	BI	PEN(b)_rev.swf
+13	357	GIFT	LI WU	Gift (li wu).swf
+13	358	AGE, ERA, RECORD	JI	Jesus marked the beginning of the modern ERA, the modern AGE and the beginning of RECORDs. The downward movement indicates falling tone.
+13	359	THINK OF	NIAN	Think of - nian.swf
+13	360	BOX	HE ZI	BOX (he_zi).swf
+13	361	BAG	DAI ZI	BAG (DAI).swf
+13	362	PAPER BAG	ZHI DAI	PAPER_BAG(zh_dai)_rev.swf
+13	363	PLASTIC	SU LIAO	Plastic (su liao).swf
+13	364	PLASTIC BAG	SU LIAO DAI	a suit wearing leech sucking the blood of the owl and dies
+13	365	BEAD, PEARL	ZHU 	Pearl, Bead - zhu.swf
+13	366	A JEWEL, GEM, A TREASURE	BAO	A jewel, gem, a treasure - bao.swf
+13	367	DIAMOND	ZUAN	Diamond - zuan.swf
+13	368	STONE	SHI	Stone - shi.swf
+14	369	HAND	SHOU	Hand(shu)_rev1.swf
+14	370	EXPENSIVE	GUI	EXPENSIVE(gui)_rev.swf
+14	371	ADVANTAGEOUS, CHEAP	PIAN	Advantageous, Cheap - Pian.swf
+14	372	CHEAP	PIAN YI	CHEAP(pian_yi)_rev.swf
+14	373	TO BREAK	ZHE	To break - Zhe.swf
+14	374	DISCOUNT	ZHE KOU	DISCOUNT(zhe_kou)_rev.swf
+14	375	SALE, TO SELL, MARKET	XIAO SHOU	SALE(xiao_shou)_rev.swf
+14	376	TO DELIVER, TO TURN OVER	JIAO	To deliver, to turn over - Jiao.swf
+14	377	CHANGE, EASY, SIMPLE	YI	Change, easy, simple - yi.swf
+14	378	TRANSACTION	JIAO YI	Transaction - jiao yi.swf
+14	379	TO RECEIVE, TO ACCEPT, TO COLLECT	SHOU	To receive, to accept, to collect - shou.swf
+14	380	RECEIPT 	SHOU JU	RECEIPT(shou ju)_rev.swf
+14	381	DEPOSIT	DING JIN	Deposit (ding jin).swf
+14	382	FUNDS	KUAN	Funds - kuan.swf
+14	383	REFUND	TUI KUAN	REFUND(tui_ku_n)_rev.swf
+14	384	CURRENCY EXCHANGE	WAIHUI	Currency_Exchange(wai_hui)_rev.swf
+14	385	CORRECT	DUI	Correct(duì)_rev.swf
+14	386	CHANGE 	HUAN	change (huan).swf
+14	387	BOOK	SHU	BOOK(shu)_rev.swf
+14	388	BOOKSTORE	SHU JU	BOOKSTORE(shu_ju)_rev.swf
+14	389	MIX	ZA	Mix - za.swf
+15	390	MAGAZINE	ZA ZHI	Magazine (za shi).swf
+15	391	MAP	DI TU	MAP(di tu)_rev.swf
+15	392	PLAY	WAN 	play(wan)_rev.swf
+15	393	TOOL, DEVICE, EQUIPMENT	JU	device tool(qi).swf
+15	394	TOY	WAN JU	TOY (wan ju).swf
+15	395	BRAIN	NAO	Brain(n_o)_rev.swf
+15	396	COMPUTER	DIAN NAO	COMPUTER(dian_nao)_rev.swf
+15	397	MOBILE PHONE	SHOU JI	mobile_PHONE(mobile_PHONE)_rev.swf
+15	398	SHIRT	YI FU	SHIRT(yi_fu)_rev.swf
+15	399	SKIRT	QUN ZI	SKIRT(qun_zi)_rev.swf
+15	400	SHORTS 	KU ZI	Shorts - ku zi.swf
+15	401	SHOES	XIE ZI	SHOE(xie_zi)_rev.swf
+15	402	SOCKS	WA ZI	SOCKS(wa_zi)_rev.swf
+15	403	TALL	GAO	Tall (gao).swf
+15	404	HIGH HEELS	GAO GEN XIE	High Heels - gao gen xie.swf
+15	405	FLAT, LEVEL, EQUAL	PING	Flat - ping.swf
+15	406	UNDER, BOTTOM	DI 	Under, bottom - di.swf
+15	407	FLATS (SHOE)	PING DI XIE	Flat (shoe) - ping di xie.swf
+15	408	CARRY	TI	carry(ti).swf
+15	409	ATM	TI KUAN JI	ATM (TI KUAN JI).swf
+15	410	COLOR, FACE	YAN	Color, face - yan.swf
+15	411	COLOUR	YAN SE 	COLOUR(yan_se)_rev.swf
+15	412	RED	HONG	Red (Hong)_revised.swf
+16	413	BLUE	LAN	BLUE(lan)_rev.swf
+16	414	YELLOW	HUANG	YELLOW (huang).swf
+16	415	PINK	FEN HONG	PINK(fen_hong).swf
+16	416	WHITE	BAI	WHITE (bai).swf
+16	417	GREY	HUI	GREY(huI).swf
+16	418	BLACK	HEI	BLACK(hei).swf
+16	419	ORANGE	CHENG	ORANGE(cheng).swf
+16	420	GREEN	QING	GREEN(qing).swf
+16	421	BROWN	HE 	BROWN(he).swf
+16	422	SICK	BING	Sick - Bing1.swf
+16	423	ILL	SHENG BING	ill (sheng bing).swf
+16	424	HOT, BURN	SHAO	Hot-Burn(shao).swf
+16	425	FEVER	FA SHAO	FEVER(fa_shao).swf
+16	426	HEAD	TOU 	Head(tou).swf
+16	427	PAIN	TONG	pain(tong).swf
+16	428	HEADACHE	TOU TONG	HEADACHE(tou_tong).swf
+16	429	COUGH	KE	COUGH_verb(ke).swf
+16	430	COUGH	KE SOU	COUGH(ke sou).swf
+16	431	STOMACH	DU ZI	stomach(du).swf
+16	432	STOMACHACHE	DU ZI TONG	Stomachache(du zi tong).swf
+16	433	FAINT	YUN	Faint - yun.swf
+16	434	MEDICAL, TO CURE	YI	Medical, to cure - yi.swf
+16	435	COURTYARD, INSTITUTION	YUAN	Courtyard, Institution - yuan.swf
+16	436	HOSPITAL	YI YUAN	Hospital - Yi yuan.swf
+16	437	SAVE	JIU	Save, Rescue (Jiu).swf
+16	438	INJURE	SHANG	Injuries - Shang.swf
+16	439	AMBULANCE	JIU SHANG CHE	Ambulance (jiu shang che).swf
+17	440	DOCTOR	YI SHENG	Doctor (Yi Sheng).swf
+17	441	PROTECT	HU	Protect(hu).swf
+17	442	PERSON	SHENG	person(sheng).swf
+17	443	NURSE	HU SHI	Nurse (hu shi).swf
+17	444	PATIENT	BING REN	Patient (bing ren).swf
+17	445	OPERATION	SHOU SHU	Operation (shou shu).swf
+17	446	HURRY	JI	Hurry - Ji.swf
+17	447	ROOM	FANG	room(fang).swf
+17	448	LADDER	TI	Ladder - Ti.swf
+17	449	LIFT (ELEVATOR)	DIAN TI	LIFT(ELEVATOR)(dian ti).swf
+17	450	MEDICINE	YAO	medicine(yao).swf
+17	451	PHARMACY	YI YAO FANG	Pharmacy - Yi yao fang.swf
+17	452	CLINIC	ZHENG LIAO SUO	Clinic - zheng liao suo.swf
+17	453	MEDICINE	YAO	medicine(yao).swf
+17	454	FLOWER	HUA 	Flower(hua).swf
+17	455	GARDEN	YUAN	garden(yuan).swf
+17	456	GARDEN	HUA YUAN	Garden - huayuan.swf
+17	457	TIME, WHEN	SHI	Time_moment_Shi2 Hou4.swf
+17	458	TIME 	SHI JIAN	Time - shijian.swf
+17	459	FLORIST (SHOP)	HUA DIAN	Florist (Shop) hua dian.swf
+18	460	NEW	XIN	New(xin).swf
+18	461	YEAR	NIAN	Year - Nian.swf
+18	462	NEW YEAR	XIN NIAN	New year - xin nian.swf
+18	463	STAR	XING	Star - xing.swf
+18	464	MONDAY	XING QI YI	MONDAY(xing qi yi).swf
+18	465	TUESDAY	XING QI ER	Tuesday - xing qi er.swf
+18	466	WEDNESDAY	XING QI SAN	Wednesday - xing qi san.swf
+18	467	THURSDAY	XING QI SI	Thursday - xing qi si.swf
+18	468	FRIDAY	XING QI WU	Friday - xing qi wu.swf
+18	469	SATURDAY	XING QI TIAN	Saturday - xing qi liu.swf
+18	470	ZERO	LING	ZERO (ling)..swf
+18	471	ONE	YI	one(yi).swf
+18	472	TWO	ER	TWO (er).swf
+18	473	THREE	SAN	THREE (san).swf
+18	474	FOUR	SI	FOUR(si).swf
+18	475	FIVE	WU	FIVE(w).swf
+18	476	SIX	LIU	SIX(liu).swf
+18	477	SEVEN	QI	SEVEN(qi).swf
+18	478	EIGHT	BA	EIGHT(ba).swf
+18	479	NINE	JIU	NINE(jiu).swf
+18	480	TEN	SHI	TEN(shi).swf
+18	481	ELEVEN	SHI YI	Eleven - shi yi.swf
+18	482	TWELVE	SHI ER	Twelve - Shi er.swf
+19	483	TWENTY	ER SHI	Twenty - er shi.swf
+19	484	THIRTY	SAN SHI	Thirty - san shi.swf
+19	485	FORTY	SI SHI	Forty - si shi.swf
+19	486	FIFTY	WU SHI	Fifty - wu shi.swf
+19	487	SIXTY	LIU SHI	Sixty - liu shi.swf
+19	488	SEVENTY	QI SHI	Seventy - qi shi.swf
+19	489	EIGHTY	BA SHI	Eighty - ba shi.swf
+19	490	NINETY	JIU SHI	Ninety - jiu shi.swf
+19	491	HUNDRED	BAI 	HUNDRED(bai).swf
+19	492	THOUSAND	QIAN	THOUSAND(qian).swf
+19	493	TEN THOUSAND	WAN	TEN_THOUSAND (wan).swf
+19	494	HAVE	YOU	Have_You3_rev.swf
+19	495	AND	HE	AND (HE).swf
+19	496	HANDLE	BA 	Handle_Ba3_rev1.swf
+19	497	USE	YONG	Use_Yong_rev.swf
+19	498	EVERY	MEI	Every_Mei3_rev.swf
+19	499	HE	TA	He_Ta1.swf
+19	500	COUNT OR NUMBER	SHU	Count_or_Number_Shu3.swf
+19	501	UNDERNEATH	XIA MIAN	Underneath - xia mian.swf
+19	502	JUST	JIU	Just_Jiu4_rev.swf
+19	503	A FEW	JI	A few - Ji.swf
+19	504	SKY	TIAN	Sky_Tian1_rev.swf
+19	505	RICEGRAIN OR METER	MI	Ricegrain_or_Meter_Mi3_rev.swf
+19	506	HAVE TO, MUST	DEI	Have_to_must_Dei3_rev1.swf
+19	507	STILL	HAI	Still_Hai2_rev.swf
+19	508	EACH	GE	Each_Ge4_rev.swf
+19	509	WE 	WO MEN	We (wo men).swf
+19	510	ALSO	YE	ALSO (YE).swf
+20	511	ONCE AGAIN	YOU	Once_again_You4_rev.swf
+20	512	COMPARE	BI	Comparison_Bi3_rev.swf
+20	513	IT	TA	It_Ta1_rev.swf
+20	514	TO PLANT, GROW, CULTIVATE	ZHONG	To plant - zhong.swf
+20	515	ALL	DOU	ALL (DOU).swf
+20	516	SHARE, DIVIDE	FEN	Share'Divide_Fen1.swf
+20	517	LONG	CHANG	Long_Chang2_rev.swf
+20	518	FOR 	WEI	For_Wei4_rev.swf
+20	519	SOME	XIE	Some_Xie1.swf
+20	520	BASE ON	YI	base_on_Yi3_rev.swf
+20	521	THINK	XIANG	think_Xiang3_rev.swf
+20	522	added at the end of a sentence to convey mood, typically informal and relax.	LA 	Added at the end of a sentence to convey mood, typically informal and relax - La.swf
+20	523	CALCULATE	JI SUAN	To calculate_jì suàn_rev.swf
+20	524	MANNER, APPEARANCE	YANG	manner_appearance_Yang4_rev.swf
+20	525	IN WHAT MANNER, HOW, WHY	ZEN YANG	In what manner, how, why - zen yang.swf
+20	526	SUBJECT, TOPIC	KE WEN	Subject_topic_Ke4_Wen2.swf
+20	527	UNIT OF MONEY, DOLLAR	YUAN	Unit of money dollar Yuan.swf
+20	528	MEASURE WORD FOR LONG/ THIN THINGS	TIAO	measure_word_for_long_thin_things_Tiao2.swf
+20	529	HOUR	XIAO SHI	Hour - xiao shi.swf
+20	530	MEASURE WORD FOR ANIMALS	ZHI	Measure_word_eg_For_animals_Zhi1.swf
+20	531	TOWARDS	XIANG	Towards - Xiang.swf
+20	532	TOPIC	TI 	Topic - ti .swf
+20	533	added at the end of a clause to express mood, typically surprised	YA	Added at the end of a clause to express mood, typically surprised - Ya.swf
+20	534	TO CROSS	GUO	cross_Guo4.swf
+20	535	GET UP, RISE	QI LAI	Get_up_rise_Qi3_Lai2.swf
+20	536	COUNTER FOR NUMBER OF TIMES	CI	Counter for number of times - Ci.swf
+20	537	SHE	TA	She_Ta1.swf
+20	538	PRACTICE	LIAN XI	Practice - lian xi.swf
+20	539	SIDE	BIAN	Side_Bian1.swf
+21	540	READ	DU	Read_Du2.swf
+21	541	POSITION	WEI	Position - Wei.swf
+21	542	SELF	ZI JI	Self - zi ji.swf
+21	543	MOST	ZUI	Most - zui.swf
+21	544	TIMES, MULTIPLE	BEI	Times, multiple - bei,swf
+21	545	TON (WEIGHT)	DUN	Ton(weight)_Dun4_rev.swf
+21	546	CENTIMETRE	LI MI	Centimetre - limi.swf
+21	547	EXAMPLE	LI	Example_Li4.swf
+21	548	AVERAGE	PING JUN	Average - ping jun.swf
+21	549	FIRST, FOREMOST	XIAN 	First, Foremost - xian.swf
+21	550	DON'T HAVE	MEI YOU	Don't have - mei you.swf
+21	551	FIRST (NUMERICALLY)	DI YI	First_(numerically)_Di4 Yi1.swf
+21	552	LISTEN	TING	Listen_Ting1.swf
+21	553	SECTION	DUAN	Section - duan.swf
+21	554	GROUP, TEAM	ZU 	Group_team_Zu3.swf
+21	555	OF	ZHI	Of_Zhi1_rev.swf
+21	556	TEACHER	LAO SHI	Teacher_Lao3_Shi1_rev.swf
+21	557	WHY	WEI SHEN ME	Why - wei shen me.swf
+21	558	CLASSMATE	TONG XUE	Classmate_Tong2_Xue2_rev1.swf
+21	559	SURFACE AREA	MIAN JI	Anim_Surface_Area_Mian4_Ji1_rev.swf
+21	560	CALL	JIAO	Call_Jiào.swf
+21	561	WATER	SHUI	Water (Shui).swf
+21	562	OR	HUO	Or - huo.swf
+21	563	QUESTION PARTICLE	HE	Question_particle_Ne1_rev.swf
+21	564	DRAW	HUA	Draw - hua.swf
+21	565	BEG	QIU	Beg_Qiu.swf
+21	566	PIECE OR BLOCK	KUAI	Piece_or_Block_Kuai4_rev.swf
+21	567	COUNTER UNIT FOR PLANTS	KE  	Counter_unit_for_plants _Ke1_rev.swf
+22	568	SONG	GE QU	Song_Ge1_Qu3_rev.swf
+22	569	EXPRESS, CONVEY	BIAO SHI	Express, Convey - biao shi.swf
+22	570	ALL	QUAN	ALL (QUAN).swf
+22	571	AND	BING	AND (BING).swf
+22	572	Emphasize something is precisely or exactly as stated	JIU SHI	Anim_Emphasize_something_Jiu4 Shi4R_rev.swf
+22	573	FAST	KUAI	Fast_Kuai4_rev.swf
+22	574	MELODY	QU 	Melody - qu.swf
+22	575	TOGETHER	GONG	Together Gong.swf
+22	576	TIME, MOMENT	SHI HOU	Time_moment_Shi2 Hou4.swf
+22	577	RISE UP	QI	Rise_up_Qi3_rev.swf
+22	578	A (GRADING, SCORE)	JIAO	A GRADE (JIA).swf
+22	579	WHO	SHUI	Who - Shui.swf
+22	580	BY	BEI	By_Bei4_rev.swf
+22	581	B (GRADING, SCORE)	YI	B GRADE (YI).swf
+22	582	MOVE, TRANSPORT	YUN	Move, transport - Yun.swf
+22	583	CLASS (IN A SCHOOL)	BAN	Class(in_school)_Ban1_rev.swf
+22	584	WITH	YU	With_Yu3.swf
+22	585	THEY (ANIMALS, OR INANIMATE OBJECTS)	TA MEN	They (Animals, inanimate objects) - ta men.swf
+22	586	IF	RU GUO	If_Ru2_Guo3_rev1.swf
+22	587	ENTER	JIN	Anim_Enter_Jing4_rev.swf
+22	588	METHOD	FANG FA	Method - fang fa.swf
+22	589	PUT	FANG  	Put_Fang4_rev.swf
+22	590	PART	BU FEN	Part_segment_Bu4_Fen4_rev.swf
+23	591	SOUND	SHENG  	Sound - Sheng.swf
+23	592	REQUEST	YAO QIU	Request_Yao1 Qiu2_rev.swf
+23	593	MARKS (IN EXAM PAPER)	FEN SHU	Marks (in exam paper) = fen shu.swf
+23	594	BE	DANG	Be_Dang1_rev.swf
+23	595	REMOVE	CHU	Remove_Chu2_rev.swf
+23	596	ALTOGETHER, TOTAL	YI GONG	Altogether, Total - Yi gong.swf
+23	597	ALREADY	YI JING	ALREADY (YI).swf
+23	598	COUNTER WORD FOR THINGS, CLOTHES, ITEM	JIAN	Counter_for_thingsJian4.swf
+23	599	EVERYONE	DA JIA	Everyone_Da4_Jia1_rev.swf
+23	600	WAIT	DENG	Wait_Deng3.swf
+23	601	LEARN	XUE XI	Learn(xue)_rev2.swf
+23	602	MATTER, ISSUE	SHI	Matter_Issue_Shi4_rev.swf
+23	603	AND, FURTHERMORE	ER	AND, FURTHERMORE (ER).swf
+23	604	HOW	ZEN ME	How_Ze3_Me4_rev.swf
+23	605	FORM OF TRADE	SHANG	Form_of_trade_Shang1_rev.swf
+23	606	DOT	DIAN	Dot - dian.swf
+23	607	DIFFERENT	BU TONG	Different_Bu4 Tong2_rev.swf
+23	608	NEGATIVE PREFIX FOR VERB	MEI	Negative_prefix_for_verb_Mei2_rev1.swf
+23	609	WAY, PATH	DAO	Way path (Dao).swf
+23	610	SING	CHANG	Sing - chang.swf
+23	611	WITH	YU	With Yu.swf
+23	612	FINISH	WAN	Finish - Wan.swf
+23	613	RUN	PAO	Run - pao.swf
+23	614	ANGLE, CORNER	JIAO	Angle, Corner - jiao.swf
+23	615	CLASS	KE 	Class_Ke4_rev.swf
+23	616	JUST (USED BEFORE A VERB)	CAI	Just (used before a verb) - cai.swf
+24	617	RIDE (A CAR, TRAIN)	CHENG	Ride(a_car_train)_Cheng2_rev.swf
+24	618	REPAIR	XIU	Repair_Xiu1_rev.swf
+24	619	QUESTION	WEN TI	Question - Wen ti.swf
+24	620	ANSWER	DA	ANSWER (DA).swf
+24	621	ADD	JIA	ADD (JIA).swf
+24	622	DECIMAL VALUE	XIAO SHU	Decimal Value - xiao shu.swf
+24	623	PLACE, LOCATION	DI FANG	Place, Location - Di Fang.swf
+24	624	MEANING	YI SI	Meaning - Yi si.swf
+24	625	ROAD, PATH	LU	Road_path_Lu4_rev.swf
+24	626	COMPLETE (A TASK)	WAN CHENG	Complete (a task) - Wan Cheng.swf
+24	627	ACCORDING (TO)	GEN JU	According (to) - gen ju.swf
+24	628	EVEN	LIAN	Even_Lian2_rev.swf
+24	629	EVALUATE, THINK	SI KAO	Evaluate_think_Si_Kao3_rev.swf
+24	630	HEAVY	ZHONG	Heavy_Zhong4_rev.swf
+24	631	OBSERVE	GUAN CHA	Observe - Guan cha.swf
+24	632	BECOME	CHENG	Become - cheng.swf
+24	633	CONTENT	NEI RONG	Content - Nei Rong.swf
+24	634	SUN	TAI YANG	Sun - tai yang.swf
+24	635	TREE	SHU	Tree_Shu4_rev.swf
+24	636	REAL	ZHEN	Real - Zhen.swf
+24	637	KNOW	ZHI DAO	Know - zhi dao.swf
+24	638	BASE ON, ACCORDING TO	ZHAO	Base on, according to - zhao.swf
+24	639	UNIT FOR VEHICLES	LIANG	Unit for vehicles - Liang.swf
+24	640	UNIT FOR APARTMENTS	DAN WEI	Unit for Apartments - dan wei.swf
+24	641	MONTH, MOON	YUE	Month, moon - yue.swf
+24	642	LIFE	SHENG HUO	Life - sheng huo.swf
+24	643	SENTENCE	JU ZI	Sentence - Ju zi.swf
+24	644	PRACTICE, DRILL	XUN LIAN	Practice_drill_Xun4_Lian4.swf
+25	645	COMPARE, MORE	BI JIAO	Compare, more - bi jao.swf
+25	646	THE PEOPLE, CITIZENS	REN MIN	The people, citizens - ren min.swf
+25	647	CHANGES	BIAN HUA	Changes - bian hua.swf
+25	648	COMPOSITE	ZONG HE	Composite Zhong.swf
+25	649	A SHARE	FEN  	A_share_Fen4.swf
+25	650	EQUATION, FORMULA	SUAN SHI	Equation_formula_Suan4_Shi4_rev.swf
+25	651	NOW, IMMEDIATE	XIAN ZAI	Now, Immediate - Xian Zai.swf
+25	652	HOMEWORK, SCHOOL ASSIGNMENT	ZUO YE	Homework, School Assignment - Zuo Ye.swf
+25	653	CALCULATE	SUAN  	Calculate_suàn_rev.swf
+25	654	EXPERIMENT	SHI YAN	Experiment - shi yan.swf
+25	655	ACTUAL, REALISTIC	SHI JI	ACTUAL, REALISTIC (SHI JI).swf
+25	656	EVERYONE, THE PEOPLE	REN MEN	Everyone, the people - ren men.swf
+25	657	SAW	KAN DAO	Saw - kan dao.swf
+25	658	YOU (POLITE AND FORMAL)	NING	YOU are hiding in the liNING of my coat! YOU (polite/formal version)
+25	659	SUCK	XI 	Suck_Xi1_rev.swf
+25	660	LOVE	AI	Love_Ai4_rev.swf
+25	661	ALWAYS	ZONG	Anim Always Zong.swf
+25	662	INNER	NEI	Inner_Nei4_rev.swf
+25	663	CANNOT, OR UNABLE	BU NENG	Cannot or Unable Bù Néng.swf
+25	664	WIDE, SPACIOUS	KUAN	Wide spacious Kuan.swf
+26	665	CLASSMATES	TONG XUE MEN	Classmate_Tong2_Xue2_rev1.swf
+26	666	SEQUENCE	SHUN XU	Sequence_Shun4_Xu4.swf
+26	667	ENEMY	DI REN	Enemy_Di2 Ren2_rev.swf
+26	668	TAKE	NA	Take - na.swf
+26	669	TAKE NOTE OF	ZHU YI	Take_note_of_Zhu4_Yi4_rev.swf
+26	670	AFTER THAT	RAN HOU	After that - ran hou.swf
+26	671	VIDEO	SHIPIN	Video - shipin.swf
+26	672	BIKINI	BIJINI	Bikini - bijini.swf
+26	673	TO READ, READING	YUEDU	To read, reading - yuedu.swf
+26	674	to inspect  / ro review  / to read  / to peruse  / to go through  / to experience	YUE	To inspect, to review, to read, to peruse, to go through, to experience - yue.swf
+26	675	POOR, HUMBLE, UNWORTHY, RADISH (OLD)	FEI	Poor, humble, unworthy, radish (old).swf
+26	676	ALL, BOTH, ENTIRELY (DUE TO) EACH, EVEN, ALREADY	DOU  	ALL (DOU).swf
